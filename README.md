@@ -74,6 +74,8 @@ Try more advanced models like Random Forest or LSTM (Deep Learning).
 
 Add multiple features (volume, open, high, low) instead of just closing price.
 
+
+---
 Deploy as a web app using Streamlit or Flask.
 
 <img width="1241" height="705" alt="Screenshot 2025-09-02 214536" src="https://github.com/user-attachments/assets/98cdde54-604e-4c0b-8a92-bedc5595002b" />
